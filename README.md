@@ -25,7 +25,5 @@ I'm actively looking to collaborate on:
 * [LinkedIn](https://www.linkedin.com/in/joshuadelsman)
 * <a rel="me" href="https://mastodon.social/@joshdelsman">Mastodon</a>
 
-> 🎵 _When I'm not optimizing systems, you can find me [mixing beats as DJ JoshuaD](https://soundcloud.com/djjoshuad)!_
-
 ---
 💼 **Looking for an experienced SRE to strengthen your team? Let's chat!**
