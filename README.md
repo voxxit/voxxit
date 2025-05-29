@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Josh (pronouns: he/him/his)
 
-### 🚀 Senior Site Reliability Engineer | Open for New Opportunities
+### 🚀 Seasoned Site Reliability Engineering Leader
 
-I'm a seasoned SRE passionate about building reliable, scalable systems and fostering DevOps culture. Currently exploring new opportunities where I can make a significant impact on infrastructure and reliability challenges.
+I'm passionate about building reliable, scalable systems and fostering DevOps culture. Currently exploring new opportunities where I can make a significant impact on infrastructure and reliability challenges.
 
 #### 💡 What I bring to the table...
 
@@ -12,8 +12,8 @@ I'm a seasoned SRE passionate about building reliable, scalable systems and fost
 - **Collaborative Mindset**: Proven track record of cross-functional team leadership and mentoring
 
 #### 🤝 Let's Connect!
-- Open to: Full-time SRE roles, consulting opportunities, and technical advisory positions
-- Interested in: Cloud infrastructure, Kubernetes, observability, and DevOps transformation projects
+- Open to: non-profit/open-source work or consulting opportunities, and technical advisory positions
+- Interested in: cloud infrastructure, Kubernetes, observability, and DevOps transformation projects
 
 #### 🌟 Open Source & Community
 I'm actively looking to collaborate on:
@@ -24,6 +24,3 @@ I'm actively looking to collaborate on:
 #### 📫 How to Reach Me:
 * [LinkedIn](https://www.linkedin.com/in/joshuadelsman)
 * <a rel="me" href="https://mastodon.social/@joshdelsman">Mastodon</a>
-
----
-💼 **Looking for an experienced SRE to strengthen your team? Let's chat!**
